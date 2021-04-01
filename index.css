@@ -37,6 +37,19 @@
     margin: 5px 3px 5px 3px;
     border: 2px solid cyan;
   }
+  h3{
+    color: aqua;
+  }
+  /*projects section*/
+  .project{
+    float: left;
+    width: 18%;
+    padding-left: 2%;
+  }
+  #project_list{
+    background-color: gray;
+    height: 320px;
+  }
    /*styling of footer section*/
    .footer{
     text-align: center;
