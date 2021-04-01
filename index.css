@@ -27,6 +27,16 @@
     height: 400px;
     width: 1150px;
   }
+  /*styling about section*/
+  h2{
+    color: cyan;
+  }
+  .about{
+    background-color: gray;
+    padding: 3px 2px 3px 2px;
+    margin: 5px 3px 5px 3px;
+    border: 2px solid cyan;
+  }
    /*styling of footer section*/
    .footer{
     text-align: center;
