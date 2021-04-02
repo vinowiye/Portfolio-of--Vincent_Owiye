@@ -40,6 +40,15 @@
   h3{
     color: aqua;
   }
+  /*styling of hobbies and skills*/
+  .hobbies{
+    float: left;
+    width: 50%;
+  }
+  #hobbies{
+    background-color: yellowgreen;
+    height: 200px;
+  }
   /*projects section*/
   .project{
     float: left;
