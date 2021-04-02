@@ -18,6 +18,6 @@ To access this project on your local files, you can clone it using these steps
 1. CSS
 1. Git
 ### Live Site
-View [live]()
+View [live](https://vinowiye.github.io/Portfolio-of--Vincent_Owiye/)
 ### Licence
 This project is under the [MIT](LICENSE) licence  
