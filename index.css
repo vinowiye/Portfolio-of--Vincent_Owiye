@@ -49,6 +49,9 @@
     background-color: yellowgreen;
     height: 200px;
   }
+  .clubs{
+    font-style: italic;
+  }
   /*projects section*/
   .project{
     float: left;
